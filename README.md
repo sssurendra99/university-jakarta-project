@@ -100,3 +100,7 @@ You can test the service using:
 ### IDE Setup
 This project is configured to work with VS Code. Open the project folder in VS Code to get started.
 
+### Screenshots
+
+![Calculator SOAP Request](assets/image.png)
+
